@@ -28,9 +28,9 @@ flutter:
   
   uses-material-design: false
 
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/images/
+    - assets/videos/
 
   # fonts:
   #   - family: Schyler
